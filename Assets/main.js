@@ -1,3 +1,3 @@
 function Botao(){
-    document.body.style.backgroundColor = 'pink';
+    document.body.style.backgroundColor = 'palevioletred';
 }
